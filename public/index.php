@@ -1,5 +1,7 @@
 <?php
 
+define('ENVIRONMENT', 'testing'); // This line is added to the file
+
 /*
  *---------------------------------------------------------------
  * CHECK PHP VERSION
